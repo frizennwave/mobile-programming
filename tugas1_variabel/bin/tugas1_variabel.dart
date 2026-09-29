@@ -6,8 +6,8 @@ void main(List<String> arguments) {
   var b = 5;
 
   print('\n');
-  print('Penjumlahan ${tugas1_variabel.addition(a, b)}');
-  print('Pengurangan ${tugas1_variabel.subtraction(a, b)}');
-  print('Perkalian ${tugas1_variabel.multiplication(a, b)}');
-  print('Pembagian ${tugas1_variabel.division(a, b)}');
+  print('Penjumlahan $a + $b = ${tugas1_variabel.addition(a, b)}');
+  print('Pengurangan $a - $b = ${tugas1_variabel.subtraction(a, b)}');
+  print('Perkalian $a * $b = ${tugas1_variabel.multiplication(a, b)}');
+  print('Pembagian $a / $b = ${tugas1_variabel.division(a, b)}');
 }
