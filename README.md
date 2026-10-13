@@ -20,3 +20,8 @@
 ![Articles](./assets/praktikum_7/articles.png)
 ![Widget Bertingkat](./assets/praktikum_7/widget_bertingkat.png)
 ![Login](./assets/praktikum_7/login.png)
+
+---
+
+### Tugas 7 Widget & Layout
+![Tugas7_widget_and_layout](./assets/tugas7_widget_and_layout.png)
