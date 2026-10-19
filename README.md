@@ -25,3 +25,14 @@
 
 ### Tugas 7 Widget & Layout
 ![Tugas7_widget_and_layout](./assets/tugas7_widget_and_layout.png)
+
+---
+
+### Tugas 8 State and User Interactions
+![Counter](./assets/praktikum_8/counter.png)
+![User Input](./assets/praktikum_8/user_input.png)
+![Callback](./assets/praktikum_8/callback.png)
+![Animation 1](./assets/praktikum_8/animation_1.png)
+![Animation 2](./assets/praktikum_8/animation_2.png)
+![Dynamic List 1](./assets/praktikum_8/dynamic_list_1.png)
+![Dynamic List 2](./assets/praktikum_8/dynamic_list_2.png)
