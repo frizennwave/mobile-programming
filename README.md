@@ -28,7 +28,7 @@
 
 ---
 
-### Tugas 8 State and User Interactions
+### Praktikum 8 State and User Interactions
 ![Counter](./assets/praktikum_8/counter.png)
 ![User Input](./assets/praktikum_8/user_input.png)
 ![Callback](./assets/praktikum_8/callback.png)
