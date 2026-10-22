@@ -36,3 +36,20 @@
 ![Animation 2](./assets/praktikum_8/animation_2.png)
 ![Dynamic List 1](./assets/praktikum_8/dynamic_list_1.png)
 ![Dynamic List 2](./assets/praktikum_8/dynamic_list_2.png)
+
+---
+
+### Tugas 8: State and User Interactions
+
+Kredensial:
+```
+Nim: 2495114008
+Password: 2495114008
+```
+
+![Login](./assets/tugas_8/login.png)
+![Profile](./assets/tugas_8/profil.png)
+![Edit](./assets/tugas_8/edit.png)
+![Result](./assets/tugas_8/hasil_edit.png)
+![Logout](./assets/tugas_8/logout.png)
+![BackToLogin](./assets/tugas_8/back_to_login.png)
