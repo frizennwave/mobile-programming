@@ -53,3 +53,14 @@ Password: 2495114008
 ![Result](./assets/tugas_8/hasil_edit.png)
 ![Logout](./assets/tugas_8/logout.png)
 ![BackToLogin](./assets/tugas_8/back_to_login.png)
+
+---
+
+### Praktikum 9: Routing and Navigations
+![Simple Navigation](./assets/praktikum_9/simple_navigation.png)
+![Simple Navigation Back](./assets/praktikum_9/simple_navigation_back.png)
+![Advanced Navigation](./assets/praktikum_9/advanced_navigation.png)
+![Pantai](./assets/praktikum_9/pantai.png)
+![Gunung](./assets/praktikum_9/gunung.png)
+![Budaya](./assets/praktikum_9/budaya.png)
+![Kuliner](./assets/praktikum_9/kuliner.png)
