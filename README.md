@@ -75,5 +75,3 @@ Password: 2495114008
 ![Kuliner](./assets/tugas_9/kuliner.png)
 ![Detail Wisata](./assets/tugas_9/detail_wisata.png)
 ![Demo Aplikasi](./assets/tugas_9/demo_navigasi_wisata.mp4)
-
----
