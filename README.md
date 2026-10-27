@@ -76,5 +76,7 @@ Password: 2495114008
 ![Detail Wisata](./assets/tugas_9/detail_wisata.png)
 
 <p align="center">
+
   ![Demo Aplikasi](./assets/tugas_9/demo_navigasi_wisata.gif)
+
 </p>
