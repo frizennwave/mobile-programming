@@ -64,3 +64,14 @@ Password: 2495114008
 ![Gunung](./assets/praktikum_9/gunung.png)
 ![Budaya](./assets/praktikum_9/budaya.png)
 ![Kuliner](./assets/praktikum_9/kuliner.png)
+
+---
+
+### Tugas 9: Routing and Navigations
+![Beranda](./assets/tugas_9/beranda.png)
+![Pantai](./assets/tugas_9/pantai.png)
+![Gunung](./assets/tugas_9/gunung.png)
+![Budaya](./assets/tugas_9/budaya.png)
+![Kuliner](./assets/tugas_9/kuliner.png)
+![Detail Wisata](./assets/tugas_9/detail_wisata.png)
+![Demo Aplikasi](./assets/tugas_9/demo_navigasi_wisata.mp4)
