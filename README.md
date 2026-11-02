@@ -80,3 +80,12 @@ Password: 2495114008
   ![Demo Aplikasi](./assets/tugas_9/demo_navigasi_wisata.gif)
 
 </p>
+
+### Tugas 10: Packet and Plugins
+![Beranda](./assets/tugas_10/beranda.png)
+![Input Catatan](./assets/tugas_10/input_catatan.png)
+![Catatan](./assets/tugas_10/catatan.png)
+![Detail Catatan](./assets/tugas_10/detail_catatan.png)
+![Hasil Pencarian](./assets/tugas_10/hasil_pencarian.png)
+![Hapus Catatan](./assets/tugas_10/hapus_catatan.png)
+![Dependencies](./assets/tugas_10/dependencies.png)
