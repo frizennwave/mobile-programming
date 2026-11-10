@@ -81,6 +81,8 @@ Password: 2495114008
 
 </p>
 
+---
+
 ### Tugas 10: Packet and Plugins
 ![Beranda](./assets/tugas_10/beranda.png)
 ![Input Catatan](./assets/tugas_10/input_catatan.png)
@@ -89,3 +91,41 @@ Password: 2495114008
 ![Hasil Pencarian](./assets/tugas_10/hasil_pencarian.png)
 ![Hapus Catatan](./assets/tugas_10/hapus_catatan.png)
 ![Dependencies](./assets/tugas_10/dependencies.png)
+
+---
+
+### Praktikum 11: Flutter and REST API Laravel
+
+### 1. Authentication
+
+#### 1.1 Login
+![Login](../assets/perpus_app/login.png)
+
+#### 1.2 Register
+![Register](../assets/perpus_app/register.png)
+
+#### 1.3 Profile
+![Profile](../assets/perpus_app/user_profile.png)
+
+### 2. Halaman Utama
+
+#### 2.1 Daftar Buku
+![Homepage](../assets/perpus_app/homepage.png)
+
+#### 2.2 Live Search (Debounce)
+![Live Search](../assets/perpus_app/live_search_buku.png)
+
+#### 2.3 Tambah Buku
+![Tambah Buku](../assets/perpus_app/tambah_buku.png)
+
+#### 2.4 Edit Buku
+![Update Buku](../assets/perpus_app/update_buku.png)
+
+#### 2.5 Detail Buku
+![Detail Buku](../assets/perpus_app/detail_buku.png)
+
+### 3. **Hasil `flutter analyze` dan `flutter test`:**
+
+![Analyze & Test](../assets/perpus_app/flutter_test_analyst.png)
+
+---
